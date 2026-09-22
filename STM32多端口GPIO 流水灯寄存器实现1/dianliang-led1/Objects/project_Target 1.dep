@@ -1,0 +1,13 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\start\startup_stm32f10x_md.s)(0x69B6A389)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\start\core_cm3.c)(0x69B6A389)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\start-I.\RTE\_Target_1-ID:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (D:\Keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (.\start\core_cm3.h)(0x69B6A389)()
+F (.\start\stm32f10x.h)(0x69B6A389)()
+F (.\start\system_stm32f10x.c)(0x69B6A389)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\start-I.\RTE\_Target_1-ID:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (start\stm32f10x.h)(0x69B6A389)
+I (start\core_cm3.h)(0x69B6A389)
+I (D:\Keil5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (start\system_stm32f10x.h)(0x69B6A389)
+F (.\start\system_stm32f10x.h)(0x69B6A389)()
+F (.\User\main.c)(0x6AB16475)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\start-I.\RTE\_Target_1-ID:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
