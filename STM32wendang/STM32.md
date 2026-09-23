@@ -380,8 +380,6 @@ int main(void)
 
 
 
-
-
 ![image-20260922004608633](STM32.assets/image-20260922004608633.png)
 
 可以看到PC13成功点亮。
