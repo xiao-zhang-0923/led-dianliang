@@ -360,6 +360,11 @@ int main(void)
 
 实验现象为红蓝绿三个灯轮流亮：
 
+
+https://github.com/user-attachments/assets/9a31a494-1fc8-42a6-a37d-456db367d87b
+
+
+
 ![image-20260922003749853](STM32.assets/image-20260922003749853.png)
 
 :large_blue_diamond:第二个实验需要把板载灯PC13加入流水灯中,，我需要把PC13也加入循环中。
